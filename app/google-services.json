@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802476259465",
+    "project_id": "cryptostockmarket-abd7d",
+    "storage_bucket": "cryptostockmarket-abd7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802476259465:android:41f78b5941ffdbbd6fee58",
+        "android_client_info": {
+          "package_name": "com.example.cryptostockmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCc8_Do2DTbFneIiDNgM1darRQQMjMkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

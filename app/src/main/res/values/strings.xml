@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CryptoStockMarket</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data">data</string>
+    <string name="not_found">not_found</string>
+    <string name="search_hint">search_hint</string>
+    <string name="empty_watchlist">empty_watchlist</string>
+    <string name="_1m">_1m</string>
+    <string name="_1w">_1w</string>
+    <string name="_1d">_1d</string>
+    <string name="_1h">_1h</string>
+    <string name="_15m">_15m</string>
+    <string name="_4h">_4h</string>
+
+</resources>
